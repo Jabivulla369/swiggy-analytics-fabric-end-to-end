@@ -48,10 +48,10 @@ The final dashboard provides actionable intelligence across several key areas:
 
 <img width="1063" height="652" alt="swiggy_report" src="https://github.com/user-attachments/assets/847dff4b-4c8a-46fb-961b-c9b5dbcbcc51" />
 
-* **Revenue Drivers:** Discovered that **63.7% of revenue (₹33.77M)** is driven by Non-Veg dishes, highlighting a clear area for menu optimization and targeted marketing.
+* **Revenue Drivers:** Discovered that **63.7% of revenue (₹33.77M)** is driven by Veg dishes, highlighting a clear area for menu optimization and targeted marketing.
 * **Regional Dominance:** Identified **Karnataka** as the highest-grossing state, followed by Uttar Pradesh and Telangana. This allows operations teams to focus delivery partner recruitment in these high-demand zones.
 * **Brand Performance:** Established a ranking system for top brands like **KFC, McDonald’s, and Pizza Hut** based on both revenue and customer satisfaction.
-* **Operational Trends:** Mapped a 53M+ total sales trend, identifying Monday and Sunday as peak days for order volume, crucial for demand forecasting.
+* **Operational Trends:** Mapped a 53M+ total sales trend, identifying Thursday and Sunday as peak days for order volume, crucial for demand forecasting.
 
 ---
 
